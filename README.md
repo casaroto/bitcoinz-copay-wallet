@@ -5,7 +5,7 @@ This software has been developed by ZClassic supporters but is not from the offi
 
 # This port is not yet fully operational, it is only intended for development tests. #
 
-<img src="https://zclassic.org/img/logo-light.png" alt="ZClassic">
+<img src="logo-light.png" alt="ZClassic">
 
 ZClassic Wallet is a secure bitcoin wallet platform for both desktop and mobile devices. ZClassic Wallet uses [Bitcore Wallet Service](https://github.com/bitpay/bitcore-wallet-service) (BWS) for peer synchronization and network interfacing.
 
