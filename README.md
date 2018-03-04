@@ -40,8 +40,8 @@ For a list of frequently asked questions please visit the [Copay FAQ](https://gi
 Clone the repo and open the directory:
 
 ```
-git clone https://github.com/bitcoinz-wallets/bitcoinz-copay-wallet.git
-cd btcz-wallet
+git clone https://github.com/casaroto/zclassic-copay-wallet
+cd zclassic-copay-wallet
 ```
 
 Install npm modules
