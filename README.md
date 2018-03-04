@@ -9,7 +9,7 @@ This software has been developed by ZClassic supporters but is not from the offi
 
 ZClassic Wallet is a secure bitcoin wallet platform for both desktop and mobile devices. ZClassic Wallet uses [Bitcore Wallet Service](https://github.com/bitpay/bitcore-wallet-service) (BWS) for peer synchronization and network interfacing.
 
-Binary versions of ZClassic Wallet are available for download at [bitcoinz.global](https://www.bitcoinz.global/en/#wallets).
+Binary versions of ZClassic Wallet are available for download at [https://zclassic.org/](https://zclassic.org/).
 For a list of frequently asked questions please visit the [Copay FAQ](https://github.com/bitpay/copay/wiki/COPAY---FAQ).
 
 ## Main Features
